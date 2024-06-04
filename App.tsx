@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <SafeAreaView >
-      <Text>Hello world!</Text>
+      <Text>Hello world!, android and ios are working as expected!</Text>
     </SafeAreaView>
   )
 }
